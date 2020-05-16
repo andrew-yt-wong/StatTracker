@@ -1,0 +1,13 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+#fixedpos {
+	height: 68px;
+}
+
+/*@font-face {
+	font-family: "Valorant Font";
+	src: url("fonts/valorantfont.ttf") format("truetype");
+}*/

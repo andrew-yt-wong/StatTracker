@@ -1,0 +1,48 @@
+#header {
+	background-color: #111111;
+	border-bottom: 2px solid #333333;
+	font-family: 'Montserrat', sans-serif;
+	position: fixed;
+	width: 100%;
+	z-index: 10;
+}
+
+#header img {
+	width: 50px;
+}
+
+#logo {
+	color: #EBE8E1;
+}
+
+#logo:hover {
+	color: white;
+}
+
+#page {
+	/*background-color: #ECE8E1;*/
+	background-color: #0F1923;
+}
+
+#page .ult {
+	width: 100%;
+}
+
+.sidebar {
+	display: none;
+}
+
+.nav-link {
+	color: #FF4656 !important;
+	opacity: 0.7 !important;
+}
+
+.nav-link:hover {
+	opacity: 1 !important;
+}
+
+@media (min-width: 992px) {
+	.sidebar {
+		display: none;
+	}
+}
